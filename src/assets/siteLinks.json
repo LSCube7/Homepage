@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.lsc7.top/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "云上の方盒",
+    "link": "https://file.lsc7.top/"
+  },
+  {
+    "icon": "Compass",
+    "name": "方盒导航",
+    "link": "https://nav.imsyy.top/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://stats.uptimerobot.com/WolRnSjojV"
+  }
+]
