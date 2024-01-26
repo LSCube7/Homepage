@@ -18,5 +18,11 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.lsc7.top/"
-  }
+  },
+  {
+    "icon": "Server",
+    "name": "Minecraft 服务器",
+    "link": "https://mc.lsc7.top/"
+  },
+  
 ]
