@@ -20,13 +20,19 @@
   {
     "name": "Steam",
     "icon": "/images/icon/steam.png",
-    "tip": "玩♂游戏",
+    "tip": "玩游戏w",
     "url": "https://steamcommunity.com/id/LSC7"
   },
   {
     "name": "Zhihu",
     "icon": "/images/icon/zhihu.png",
-    "tip": "探讨一点问题",
+    "tip": "探讨一点问题w",
     "url": "https://www.zhihu.com/people/LSCube"
+  },
+  {
+    "name": "Twitter",
+    "icon": "/images/icon/twitter.png",
+    "tip": "看看X",
+    "url": "https://twitter.com/LSCube777"
   }
 ]

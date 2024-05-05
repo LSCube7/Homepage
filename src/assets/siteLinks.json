@@ -21,7 +21,12 @@
   },
   {
     "icon": "Server",
-    "name": "Minecraft 服务器",
+    "name": "MC 服务器",
     "link": "https://mc.lsc7.top/"
+  },
+  {
+    "icon": "Toolbox",
+    "name": "恨古人工具箱",
+    "link": "https://henguren.lsc7.top"
   }
 ]

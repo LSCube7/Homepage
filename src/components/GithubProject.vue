@@ -43,7 +43,11 @@ import { Pagination, Mousewheel } from "swiper";
 
 // 仓库数据
 const projectData = [
-
+  {
+    name: "henguren_toolbox",
+    author: "LSCube7",
+    desc: "一个基于Vue可帮助我们高效学习的工具箱"
+  }
 ];
 
 // 计算网站链接
