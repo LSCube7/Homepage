@@ -23,6 +23,7 @@
           &amp;
           {{ siteIcp }}
         </a>
+        <a href="https://icp.gov.moe/?keyword=20252029" target="_blank">萌ICP备20252029号</a>
       </div>
       <div v-else class="lrc">
         <Transition name="fade" mode="out-in">
